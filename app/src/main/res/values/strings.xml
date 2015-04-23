@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Animal Lift</string>
+    <string name="app_title">Animal Lifts</string>
+    <string name="aboutDialogTitle">About</string>
+    <string name="aboutDialogBody">This app was inspired by the web app</string>
+    <string name="webapplink"><a href="http://whatanimaldoyoulift.herokuapp.com/">What Animal Do You Lift</a></string>
+    <string name="sameDataLabe">and uses the same data courtesy of L.Abe</string>
+    <string name="labeTwitLink"><a href="http://https://twitter.com/dottedlinegirl/">@dottedlinegirl</a></string>
+    <string name="setDefault">Set default weight unit:</string>
+
+    <string name="main_text">What animal do you even lift?</string>
+    <string name="hint">weight</string>
+    <string name="lbs">lbs</string>
+    <string name="kg">kg</string>
+
+    <string name="calculating">Input a weight below</string>
+    <string name="blank"> </string>
+    <string name="button">Get my animal</string>
+    <string name="instr">Enter weight: </string>
+    <string name="desc">animal picture</string>
+    <string name="share">Share</string>
+
+</resources>
